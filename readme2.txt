@@ -1,2 +1,1 @@
-This is a test for Git
-This is a test2 for Git
+½ñÈÕ¤Ï¤¤¤¤Ììšİ¤Ç¤¹¡£
